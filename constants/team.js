@@ -1,0 +1,9 @@
+export const GÜNNI = 'Günni';
+export const ELDIN = 'Eldin';
+export const GINU = 'Ginu';
+export const YASIR = 'Yasir';
+export const RADEK = 'Radek';
+export const KONRAD = 'Konrad';
+export const STANLY = 'Stanly';
+export const KRZ = 'Krz';
+export const NATALIE = 'Natalie';
